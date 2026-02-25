@@ -43,6 +43,7 @@ def main():
 
         elif op == "6":
             break
+        
         else:
             print(" Opción inválida")
 
